@@ -1,0 +1,5 @@
+url=https://npupt.com/torrents.php?sort=4&type=desc
+cookie_str=c_secure_uid=OTM1NDM%3D; c_secure_pass=fd57c0997d146af1bbcbbb393c645edd; _gid=GA1.2.1859339373.1535547215; _ga=GA1.2.409996975.1533974865; c_secure_tracker_ssl=bm9wZQ%3D%3D; c_secure_ssl=eWVhaA%3D%3D; c_secure_login=bm9wZQ%3D%3D
+user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+passkey=bbfae9ee638041e116308ec82e695a52
+path=E:/download/hot/auto_torrent/
